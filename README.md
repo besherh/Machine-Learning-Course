@@ -1,4 +1,4 @@
-# Machine Learning Course (semester 1, 2020)
+# Machine Learning Course (Semester 1, 2020)
 
 This repository consists of course material for CMP7228, Machine Learning. Each week's material can be found under the related folder number. 
 
