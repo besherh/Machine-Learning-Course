@@ -1,6 +1,5 @@
 # Machine Learning Course
-Short URL: https://bit.ly/2RZWqYi
-Teaching Period: Semester1 2020
+Short URL to access this course: https://bit.ly/2RZWqYi.
 
 This repository consists of course material for CMP7228, Machine Learning. Each week's material can be found under the related folder number. 
 
