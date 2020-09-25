@@ -9,3 +9,4 @@ This is the first version for the course so the materials are constantly being u
 # Credits
 This repository uses a modified version of the content and several examples from Python Machine Learning-3rd-edition by Sebastian Raschka and Vahid Mirjalili
 
+![Image of Yaktocat](https://itbook.store/img/books/9781789955750.png)
