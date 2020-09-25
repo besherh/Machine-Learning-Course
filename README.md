@@ -1,4 +1,4 @@
-# Machine-Learning-Course
+# Machine Learning Course
 
 Semester1 2020
 
