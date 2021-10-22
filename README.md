@@ -1,4 +1,4 @@
-# Machine Learning CMP7288 (Semester 1, 2020)
+# Machine Learning CMP7288 (Semester 1, 2021)
 
 This repository consists of course material for CMP7228, Machine Learning. Each week's material can be found under the related folder number. 
 
